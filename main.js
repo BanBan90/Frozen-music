@@ -3,7 +3,7 @@ addEventListener('fetch', event => {
 });
 
 // Add your bot token here.
-const BOT_TOKEN = "bot token here";
+const BOT_TOKEN = "7621100167:AAHib6QQvcy5pDcxW0O9mvmJ34OMk6NNbW4";
 
 //Pro people: don't change this else your bot will be fucked.
 const API_BASE_URL = "https://probable-berti-frozenbotspvt-17e82b7b.koyeb.app";
