@@ -6,10 +6,9 @@ addEventListener('fetch', event => {
 const BOT_TOKEN = "bot token here";
 
 //Pro people: don't change this else your bot will be fucked.
-const API_BASE_URL = "https://probable-berti-frozenbotspvt-17e82b7b.koyeb.app";
-
+const API_BASE_URL = "https://jolly-bar-bef4.banb4547.workers.dev/
 //Pro people: don't change this else your bot will be fucked.
-const ASSISTANT_ID = "7049510852";
+const ASSISTANT_ID = "orange-firefly-94f309";
 
 
 let songQueue = [];
